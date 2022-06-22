@@ -2,7 +2,7 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-22T13:42:28.124Z
+date: 2022-06-22T13:54:18.661Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
@@ -14,6 +14,7 @@ We are completely run and operated by the Osmosis Community. This mean, we need 
 ## To Do
 
 - [x] Actually have a working wiki
+	- [ ] Do something... with the wiki...
 - [ ] Not be based
 - [ ] Osmosis AMM (how do)
 - [ ] OSMO and ION (the whole damn story)
