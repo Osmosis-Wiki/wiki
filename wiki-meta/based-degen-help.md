@@ -2,7 +2,7 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-22T15:37:10.520Z
+date: 2022-06-26T16:28:50.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
@@ -34,3 +34,6 @@ We are completely run and operated by the Osmosis Community. This mean, we need 
 	- [ ] The How do, the why do, the dangers of do
   - [ ] DeFi for Normies (Felix example)
   - [ ] Community Opinion Pieces
+  
+## Project Timeline
+
