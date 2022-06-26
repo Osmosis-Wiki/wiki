@@ -2,7 +2,7 @@
 title: Style Guide
 description: They see my stylin', they hatin'!
 published: true
-date: 2022-06-26T20:57:13.089Z
+date: 2022-06-26T20:59:02.390Z
 tags: style guide, meta
 editor: markdown
 dateCreated: 2022-06-26T19:44:40.393Z
@@ -40,4 +40,4 @@ External links are encouraged within the body of an article. External links shou
 
 If exact language is used from source documents, a footnote[^1] should be referenced.[^1] If the footnote will end up at the *end* of a sentence, the footnote should be placed after the period. 
 
-[^1:] This is an example footnote. Hi!
+[^1]: This is an example footnote. Hi!
