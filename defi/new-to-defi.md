@@ -2,7 +2,7 @@
 title: DeFi for Newbies
 description: Your community guide into what Decentralized Finance is, and how it works!
 published: true
-date: 2022-06-26T20:42:08.749Z
+date: 2022-06-26T21:03:59.003Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T23:25:19.037Z
@@ -20,8 +20,10 @@ Possible DeFi applications are decentralised Exchanges (Osmosis, Uniswao, Balanc
 ## History of DeFi
 
 ## Decentralised Exchanges
+Nowadays most decentralised Exchanges (also known as Dex) are operation through a automated market maker (AMM). The AMM can be implemented through a Smart Contract or directly into the Blockchain and acts as liquidity reserve for the Dex. 
 
 ## Lending Platforms
+Decentralised lending platforms are a very popular DeFi implementation. They allow lenders to provider collateral and earn a APR on this collateral and borrowers to borrow money without credibility score a bank might ask for. To get a loan the borrower must usually deposit more collateral than the volume of the requested loan.
 
 ## Risks/Vulnerabilities
 DeFi applications also have risks which can affect the stored money and in the worst case and in the worst case lead to total insolvency. The first potential vulnerability is coming from bugs in the defined rules which could empower actors to access funds they aren't supposed to access. This already happened several times in the past and is the biggest risk DeFi applications have. In October 2021 a bug in the Compound Smart Contract put [$160M at risk](https://decrypt.co/82499/compound-exploit-drains-21m-from-lending-protocol). Also Osmosis suffered such a bug where 5M of funds in which $5M in liquidity was illicitly withdrawn.
