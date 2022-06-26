@@ -2,7 +2,7 @@
 title: Style Guide
 description: They see my stylin', they hatin'!
 published: true
-date: 2022-06-26T20:30:45.361Z
+date: 2022-06-26T20:57:13.089Z
 tags: style guide, meta
 editor: markdown
 dateCreated: 2022-06-26T19:44:40.393Z
@@ -33,3 +33,11 @@ If you're unfamiliar with markdown, please take a look at the guides provided:
 
 1. The Markdown Editor **DOES NOT** do spell checking within it's editing box. Instead there is a spell check button in the top right of the preview window that will run a spell check. Using your browsers spell check **WILL NOT** auto update the markdown, you will have the correct the spelling, THEN copy the corrected word over into markdown editor.
 1. The wiki is currently being produced in **ENGLISH** specifically, we will be following US English. (This will be revised as more articles are produced in different languages.)
+
+## External Links and Source Documents
+
+External links are encouraged within the body of an article. External links should be used to reference the same material you might be using to write the wiki document. Examples of external links are shown above with the guides to markdown.
+
+If exact language is used from source documents, a footnote[^1] should be referenced.[^1] If the footnote will end up at the *end* of a sentence, the footnote should be placed after the period. 
+
+[^1:] This is an example footnote. Hi!
