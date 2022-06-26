@@ -2,7 +2,7 @@
 title: The WikiDrafts
 description: Every wiki works hard to be accurate, this is our method!
 published: true
-date: 2022-06-26T14:07:14.909Z
+date: 2022-06-26T14:09:45.706Z
 tags: drafts
 editor: markdown
 dateCreated: 2022-06-26T14:07:14.909Z
