@@ -2,19 +2,22 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-26T16:28:50.819Z
+date: 2022-06-26T18:54:44.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
 ---
 
 # Based Degen WikiWork
+
 We are completely run and operated by the Osmosis Community. This mean, we need help, not just mentally, but in terms of work needing to be done around the wiki.
 
-## To Do
+## The *To Do* List
 
-- [x] Actually have a working wiki
-	- [ ] Do something... with the wiki...
+> - [x] Actually have a working wiki (completed 2022-06-23)
+{.is-success}
+
+- [ ] Do something... with the wiki...
 - [ ] Not be based
 - [ ] Osmosis AMM (how do)
 - [ ] OSMO and ION (the whole damn story)
