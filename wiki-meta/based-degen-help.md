@@ -2,7 +2,7 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-26T19:26:16.290Z
+date: 2022-06-26T19:40:31.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
@@ -23,7 +23,7 @@ Below you will find our overarching to do. We invite anyone to edit this and mar
 Once finished please indicate like so and move the task to below the `Completed Tasks` quote.
 
 ```md
-- [X] Task Name **(completed: YYYY-MM-DD)**
+- [x] Task Name **(completed: YYYY-MM-DD)**
 ```
 :exclamation: We also request that you follow the posted [style guide](/wiki-meta/style-guide). 
 
