@@ -2,7 +2,7 @@
 title: DeFi for Newbies
 description: Your community guide into what Decentralized Finance is, and how it works!
 published: true
-date: 2022-06-26T20:38:29.094Z
+date: 2022-06-26T20:40:07.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T23:25:19.037Z
