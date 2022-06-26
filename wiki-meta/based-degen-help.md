@@ -2,8 +2,8 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-26T19:40:31.370Z
-tags: 
+date: 2022-06-26T20:33:48.162Z
+tags: meta
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
 ---
