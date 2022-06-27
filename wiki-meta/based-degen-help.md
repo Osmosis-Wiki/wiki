@@ -2,7 +2,7 @@
 title: Based Degen WikiWork
 description: This wiki needs your based help! Here's some topics to get started on.
 published: true
-date: 2022-06-26T20:33:48.162Z
+date: 2022-06-27T02:12:16.858Z
 tags: meta
 editor: markdown
 dateCreated: 2022-06-22T13:19:29.011Z
@@ -59,7 +59,7 @@ Once finished please indicate like so and move the task to below the `Completed 
   - [ ] Johnny's Governance Consulate
 - [ ] DeFi Basics
 	- [ ] The How do, the why do, the dangers of do
-  - [ ] DeFi for Normies (Felix example)
+  - [ ] DeFi for Normies *(startedBy: Felix, date:2022-06-26)*
   - [ ] Community Opinion Pieces
 
 > Completed Tasks
