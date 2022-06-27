@@ -2,7 +2,7 @@
 title: DeFi for Newbies
 description: Your community guide into what Decentralized Finance is, and how it works!
 published: true
-date: 2022-06-26T21:03:59.003Z
+date: 2022-06-27T02:04:19.462Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-22T23:25:19.037Z
@@ -10,21 +10,37 @@ dateCreated: 2022-06-22T23:25:19.037Z
 
 # Decentralized Finance for Newbies
 
-> This article is stub, work that out... K...thx!
+> This article is a work in progress. The information may not reflect the final state.
+{.is-warning}
 
-## What is "Decentralised Finance"
-Decentralised Finance is describing a financial system that is built in a decentralised manner and operated on or through a Blockchain. This means, that in a DeFi application there is no intermediate between the different actors. So for instance on Osmosis, when a user makes a swap he is interacting directly with the liquidity providers without third party. To ensure a trustless process DeFi applications use rules which are defined in Smart Contracts or natively into a Blockchain. The Blockchain then enforces that every actor is complying to these rules. 
+<!-- HI Felix! I did some editing, styling for you. - Togg -->
 
-Possible DeFi applications are decentralised Exchanges (Osmosis, Uniswao, Balancer) or money lending platforms (Curev, Aave, etc.)
+## What is "Decentralized Finance"
+Decentralized Finance (DeFi) describes a financial system that is built in a "decentralized manner" (meaning no centralized server, or point of failure) and operated on or through a [Blockchain](https://en.wikipedia.org/wiki/Blockchain). This means, that in a DeFi application there is no intermediate between the different actors.
+
+For instance on [Osmosis](https://osmosis.zone/), when a user makes a swap they are interacting *directly* with the liquidity providers without third party. To ensure a trustless process, DeFi applications use rules defined in either Smart Contracts (Ethereum) or natively in a blockchain (Cosmos SDK). The blockchain then enforces that every actor is complying to these rules. 
+
+Possible DeFi applications are decentralized exchanges (Osmosis, Uniswap, Balancer) or money lending platforms (Mars Protocol, Curve, Aave, etc.).
 
 ## History of DeFi
 
-## Decentralised Exchanges
-Nowadays most decentralised Exchanges (also known as Dex) are operation through a automated market maker (AMM). The AMM can be implemented through a Smart Contract or directly into the Blockchain and acts as liquidity reserve for the Dex. 
+<!-- Not Yet Completed -->
+
+## Decentralized Exchanges
+Nowadays most decentralized exchanges (DEXs) are operated through an Automated Market Maker (AMM). The AMM can be implemented through a smart contract or be baked directly into the blockchain and acts as liquidity reserve for the DEX. 
 
 ## Lending Platforms
-Decentralised lending platforms are a very popular DeFi implementation. They allow lenders to provider collateral and earn a APR on this collateral and borrowers to borrow money without credibility score a bank might ask for. To get a loan the borrower must usually deposit more collateral than the volume of the requested loan.
+Decentralized lending platforms are also a very popular DeFi implementation. They allow lenders to provider collateral and earn a APR (Annual Percentage Rate) on said collateral. Borrowers then can borrow money without any credibility score (Credit Score) a bank might ask for. With most DeFi loans, the borrower must usually deposit more collateral than the volume of the requested loan. This is called an "over-collateralized" loan. These types of loans are meant to offset the extreme price volatility of Cryptocurrencies.
 
 ## Risks/Vulnerabilities
-DeFi applications also have risks which can affect the stored money and in the worst case and in the worst case lead to total insolvency. The first potential vulnerability is coming from bugs in the defined rules which could empower actors to access funds they aren't supposed to access. This already happened several times in the past and is the biggest risk DeFi applications have. In October 2021 a bug in the Compound Smart Contract put [$160M at risk](https://decrypt.co/82499/compound-exploit-drains-21m-from-lending-protocol). Also Osmosis suffered such a bug where 5M of funds in which $5M in liquidity was illicitly withdrawn.
-Another potential vulnerability that DeFi applications are exposed to is when the blockchain on which the application runs is itself attacked. This could be achieved through a 51% attack where one entity controls the majority of the new blocks and therefore the whole network. If this happens it also controls all the funds that are stored in the network including the DeFi application. However, such an attack is unlikely on the major blockchain networks.
+DeFi applications also have risks which can affect the stored value (money) and in the worst cases, lead to total insolvency. One of the first potential vulnerabilities comes from bugs in the defined rules (smart contract or blockchain) which could empower actors to access funds they aren't supposed to access. This type of attack has happened several times in the past and is the biggest risk DeFi applications have.
+
+> In October 2021 a bug in the Compound Smart Contract put [$160M at risk](https://decrypt.co/82499/compound-exploit-drains-21m-from-lending-protocol).
+{.is-info}
+
+> Osmosis suffered such a bug where 5M of funds in which $5M in liquidity was illicitly withdrawn.[^1]
+{.is-info}
+
+[^1]: "Cosmos-based DeFi Exchange Osmosis Hit by $5M Exploit," Sujith Somraaj, [Decrypt](https://decrypt.co/102300/cosmos-based-defi-exchange-osmosis-hit-by-5m-exploit)
+
+Another potential vulnerability that DeFi applications are exposed to is when the blockchain on which the application runs, is itself attacked. Depending on the architechure of the chain the attack can be achieved in multiple different ways. However, the most common (and worried about, yet most unlikely) is through a "51% attack," where one entity controls the majority of the new blocks and therefore the whole network. If this happens it also controls all the funds that are stored in the network, including the DeFi application. Such an attack is unlikely on major blockchain networks such as, Ethereum, Bitcoin, Polygon, Cosmos Hub, etc.
